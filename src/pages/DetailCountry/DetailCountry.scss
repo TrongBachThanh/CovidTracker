@@ -1,0 +1,11 @@
+.country {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 1rem;
+  &__title {
+    margin-left: 1rem;
+  }
+  .btn-day {
+    margin-left: 1rem;
+  }
+}

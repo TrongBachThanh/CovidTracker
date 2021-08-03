@@ -1,0 +1,19 @@
+.app-section {
+  background: url('../../assets/images/covid.jpg') top center / cover no-repeat;
+  height: 100vh;
+}
+
+.container-form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 5rem;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
